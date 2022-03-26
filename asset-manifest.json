@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactappsample/static/css/main.073c9b0a.css",
-    "main.js": "/reactappsample/static/js/main.6ba90398.js",
-    "static/js/787.137aa76a.chunk.js": "/reactappsample/static/js/787.137aa76a.chunk.js",
-    "static/media/logo.svg": "/reactappsample/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reactappsample/index.html",
-    "main.073c9b0a.css.map": "/reactappsample/static/css/main.073c9b0a.css.map",
-    "main.6ba90398.js.map": "/reactappsample/static/js/main.6ba90398.js.map",
-    "787.137aa76a.chunk.js.map": "/reactappsample/static/js/787.137aa76a.chunk.js.map"
+    "main.css": "/ProfessionalPortfolio/static/css/main.073c9b0a.css",
+    "main.js": "/ProfessionalPortfolio/static/js/main.1d57d5fb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ProfessionalPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/ProfessionalPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProfessionalPortfolio/index.html",
+    "main.073c9b0a.css.map": "/ProfessionalPortfolio/static/css/main.073c9b0a.css.map",
+    "main.1d57d5fb.js.map": "/ProfessionalPortfolio/static/js/main.1d57d5fb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ProfessionalPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6ba90398.js"
+    "static/js/main.1d57d5fb.js"
   ]
 }
